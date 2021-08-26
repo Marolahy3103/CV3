@@ -1,0 +1,197 @@
+#csfx
+{
+    margin-top: 63%;
+    margin-left: 35%;
+    z-index: 1;
+    padding: 10%;
+    padding: 5px;
+    position: absolute;
+    border-radius: 10px;
+    box-shadow: 30px;
+    display:none;
+}
+#sesame
+{
+    margin-top: 57%;
+    margin-left: 35%;
+    z-index: 1;
+    padding: 10%;
+    padding: 5px;
+    position: absolute;
+    border-radius: 10px;
+    box-shadow: 30px;
+    display:none;
+}
+
+#esti
+{
+    margin-top: 58%;
+    margin-left: 35%;
+    z-index: 1;
+    padding: 10%;
+    padding: 5px;
+    position: absolute;
+    border-radius: 10px;
+    box-shadow: 30px;
+    display:none;
+}
+
+
+#liste
+{
+    border: none;
+}
+
+
+#my-table
+{
+border: none;
+}
+
+ spa span
+ {
+     display: inline-block;
+    margin: 10px 3px 5px 5px;
+    width: 8px;
+    height: 8px;
+    background: blue;
+    border-radius: 50%;
+} 
+
+
+				.langue-skill[data-langue=Malagasy] span:nth-child(1), .langue-skill[data-langue=Malagasy] span:nth-child(2), 
+				.langue-skill[data-langue=Malagasy] span:nth-child(3), .langue-skill[data-langue=Malagasy] span:nth-child(4), 
+				.langue-skill[data-langue=Malagasy] span:nth-child(5), .langue-skill[data-langue=Malagasy] span:nth-child(6), 
+				.langue-skill[data-langue=Malagasy] span:nth-child(7), .langue-skill[data-langue=Malagasy] span:nth-child(8), 
+				.langue-skill[data-langue=Malagasy] span:nth-child(9), .langue-skill[data-langue=Malagasy] span:nth-child(10),
+				.langue-skill[data-langue=Malagasy] span:nth-child(11),
+
+				.langue-skill[data-langue=Francais] span:nth-child(1), .langue-skill[data-langue=Francais] span:nth-child(2), 
+				.langue-skill[data-langue=Francais] span:nth-child(3), .langue-skill[data-langue=Francais] span:nth-child(4), 
+				.langue-skill[data-langue=Francais] span:nth-child(5), .langue-skill[data-langue=Francais] span:nth-child(6), 
+				.langue-skill[data-langue=Francais] span:nth-child(7), .langue-skill[data-langue=Francais] span:nth-child(8),
+
+				.langue-skill[data-langue=Anglais] span:nth-child(1), .langue-skill[data-langue=Anglais] span:nth-child(2), 
+				.langue-skill[data-langue=Anglais] span:nth-child(3), .langue-skill[data-langue=Anglais] span:nth-child(4), 
+				.langue-skill[data-langue=Anglais] span:nth-child(5), .langue-skill[data-langue=Anglais] span:nth-child(6), 
+				.langue-skill[data-langue=Anglais] span:nth-child(7)
+				{
+					width: 10px;
+					height: 10px;
+					background-color:green;
+					box-shadow: 0 0 3px #fff; 
+				}
+				.langue-skill span 
+				{
+    				display: inline-block;
+   					margin: 10px 3px 5px 5px;
+   					width: 8px;
+   					height: 8px;
+    				background:#A9A9A9;
+    				border-radius:50%;
+             }
+            
+#html-csss
+{
+    z-index: 1;
+    color: black;
+    padding: 10%;
+    margin-left: 26%; 
+    z-index: 1;
+    padding: 5px;
+    position: absolute;
+    border-radius: 10px;
+    box-shadow: 30px;
+    display:none;
+}
+#couleur_site
+{
+    color: black;
+}
+
+#javascript
+{
+    z-index: 1;
+    color: black;
+    margin-left: 24%; 
+    margin-top: -1%;
+    z-index: 1;
+    padding: 5px;
+    position: absolute;
+    border-radius: 10px;
+    box-shadow: 30px;
+    display:none;
+}
+
+#PHP
+{
+    z-index: 1;
+    color: black;
+    margin-left: 24%;
+    margin-top: -5px; 
+    z-index: 1;
+    padding: 5px;
+    position: absolute;
+    border-radius: 10px;
+    box-shadow: 30px;
+    display:none;
+}
+
+#python
+{
+    z-index: 1;
+    color: black;
+    margin-left: 24%; 
+    margin-top: -5%;
+    z-index: 1;
+    padding: 5px;
+    position: absolute;
+    border-radius: 10px;
+    box-shadow: 30px;
+    display:none;
+}
+
+#sql
+{
+    z-index: 1;
+    color: black;
+    margin-left: 24%; 
+    margin-top: 50px;
+    z-index: 1;
+    padding: 10px;
+    position: absolute;
+    border-radius: 10px;
+    box-shadow: 30px;
+    display:none;
+    
+}
+
+#oracle
+{
+    z-index: 1;
+    color: black;
+    margin-left: 24%; 
+    margin-top: 30%;
+    z-index: 1;
+    padding: 10px;
+    position: absolute;
+    border-radius: 10px;
+    box-shadow: 30px;
+    display:none;
+    
+}
+
+#reseau
+{
+    z-index: 1;
+    color: black;
+    margin-left: 24%; 
+    margin-top: 13%;
+    z-index: 1;
+    padding: 10px;
+    position: absolute;
+    border-radius: 10px;
+    box-shadow: 30px;
+    display:none;
+    
+}
